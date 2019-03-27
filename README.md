@@ -1,1 +1,2 @@
 # SetCardGame
+Assignment I From CS193P iOS APPLICATION DEVELOPMENT
